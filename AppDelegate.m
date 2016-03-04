@@ -4,7 +4,10 @@
 //
 //  Created by scsys on 16/3/4.
 //  Copyright © 2016年 于晓晓. All rights reserved.
-//
+//项目上传github
+//1.创建工程
+//2.左上角“+”--》Add选择文件--》creat &add
+//3.
 
 #import "AppDelegate.h"
 
